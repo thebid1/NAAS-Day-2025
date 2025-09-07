@@ -69,6 +69,16 @@ document.addEventListener('DOMContentLoaded', () => {
       title: 'Tutorials',
       description: 'Tutorials for UG1-UG3',
       image: 'assets/tutorial.jpg'
+    },
+    {
+      title: 'NAAS Skill Acquisation',
+      description: 'Online Skill Acquisation for Students',
+      image: 'assets/skill.jpg'
+    },
+    {
+      title: 'Hiking',
+      description: 'NAAS Hiking',
+      image: 'assets/hiking7.jpg'
     }
   ];
 
@@ -78,6 +88,21 @@ document.addEventListener('DOMContentLoaded', () => {
       title: 'Improved Species',
       description: 'Introduction of newly improved species which serves as centre of innovation and learning',
       image: 'assets/agric.jpg'
+    },
+    {
+      title: 'Inter-Row Farming',
+      description: 'Practice of Inter-Row Cropping with Millets (Cereals) and Cowpea (Legume)',
+      image: 'assets/farm.jpg'
+    },
+    {
+      title:'Ferterlizer',
+      description:'Use of lab made ferterlizer to improve crop growths',
+      image:'assets/fertile.jpg'
+    },
+     {
+      title:'Grafting',
+      description:'Grafting of mango tress to get an improved varieties',
+      image:'assets/graft.jpg'
     }
   ];
 

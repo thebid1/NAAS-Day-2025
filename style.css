@@ -120,7 +120,7 @@ section h2 {
 }
 
 #faculty .subtitle {
-  font-size: 1rem;
+  font-size: 10rem;
   color: #555;
   margin-bottom: 2rem;
 }
@@ -350,4 +350,6 @@ section h2 {
 /* Footer */
 footer {
   background-color: #007A33;
+  text-align: center;
+  font-size: large;
 }
