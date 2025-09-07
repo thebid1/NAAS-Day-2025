@@ -41,6 +41,7 @@ document.addEventListener('DOMContentLoaded', () => {
       image: 'assets/exam-orientation.jpg'
     },
     {
+      title: 'Podium',
       description: 'Repairs of all classroom podium',
       image: 'assets/podium.jpg'
     },
